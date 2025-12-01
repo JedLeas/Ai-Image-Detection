@@ -1,0 +1,13 @@
+# Ignore python cache
+__pycache__/
+*.py[cod]
+.venv/
+.idea/
+
+# Ignore heavy data folders
+images/
+src/__pycache__/
+
+# Ignore large data files
+*.npy
+*.DS_Store
